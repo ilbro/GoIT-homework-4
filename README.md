@@ -1,1 +1,1 @@
-# GoIT-homework-4
+# GoIT-h/w-4
